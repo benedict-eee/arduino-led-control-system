@@ -37,5 +37,4 @@ It uses basic digital I/O functions and delay timing.
 
 ## Future Improvements
 - Add button control
-- Use multiple LEDs
 - Implement PWM brightness control
